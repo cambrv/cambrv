@@ -1,8 +1,12 @@
-- 👋 Hi, I’m @cambrv
-- 👀 I’m interested in progamming and graphic design
-- 🌱 I’m currently learning TIC's
-
-<!---
-cambrv/cambrv is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+# Camily Bravo
+### Estudiante de TIC's en la **Universidad Técnica de Machala**
+### Estudiante de Alura Latam - Especialización en Front-End
+> Intereses: Front-end, desarrollo block-chain
+---
+## Conocimientos
+### Intermedio: 
+- Java
+- C#
+### Básico:
+- Python
+- JavaScript
